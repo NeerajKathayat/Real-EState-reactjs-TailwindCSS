@@ -4,7 +4,10 @@
 
 
 
-
+*{
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+}
 
 
 .slide-in {
